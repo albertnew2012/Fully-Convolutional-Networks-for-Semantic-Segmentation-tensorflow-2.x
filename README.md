@@ -10,7 +10,7 @@ I carried out both FCN8s and FCN2s in the code. Ideally, I  expect better perfo
 
 
 
-<img src="https://user-images.githubusercontent.com/58440102/106374671-31d18600-633a-11eb-8c9b-751e863abf48.png" width="500" height="400"><img src="https://user-images.githubusercontent.com/58440102/106374673-3433e000-633a-11eb-8ba4-18bbfd305b5a.png" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/58440102/106374671-31d18600-633a-11eb-8c9b-751e863abf48.png" width="400" height="350"><img src="https://user-images.githubusercontent.com/58440102/106374673-3433e000-633a-11eb-8ba4-18bbfd305b5a.png" width="400" height="350">
 
 After training for 45 epochs, here is predicted images:![Screenshot from 2021-01-30 20-48-37](https://user-images.githubusercontent.com/58440102/106374953-9a216700-633c-11eb-942b-72480282d7d3.png)
 
