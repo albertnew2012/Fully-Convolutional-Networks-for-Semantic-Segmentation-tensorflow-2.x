@@ -12,6 +12,6 @@ I carried out both FCN8s and FCN2s in the code. Ideally, I  expect better perfo
 
 <img src="https://user-images.githubusercontent.com/58440102/106374671-31d18600-633a-11eb-8c9b-751e863abf48.png" width="400" height="350"><img src="https://user-images.githubusercontent.com/58440102/106374673-3433e000-633a-11eb-8ba4-18bbfd305b5a.png" width="400" height="350">
 
-After training for 45 epochs, here is predicted images:![Screenshot from 2021-01-30 20-48-37](https://user-images.githubusercontent.com/58440102/106374953-9a216700-633c-11eb-942b-72480282d7d3.png)
+After training for 45 epochs and 8 classes being used, here is predicted images:![Screenshot from 2022-03-10 17-17-32](https://user-images.githubusercontent.com/58440102/157783198-9899095f-6c6f-4a50-886b-99b912b61c57.png)
 
-Sorry, some classes, like the pedestrians and cyclists are poorly segmented from the input images. I think it might be due to the insufficient representations in the training data, it may also be caused by its relatively small size in the image. It can be further improved by adding more samples of pedestrians and cyclists and refine the architecture. I am still working on this repo to improve the segmentation performance.
+In order to further improve the segmentation accuracy, more samples and a big class number would definitely help.
